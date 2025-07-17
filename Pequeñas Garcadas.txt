@@ -1,0 +1,6 @@
+- Generadores de tarjetas de crédito/débito falsas para aprovechar
+  pruebas gratis de servicios como YouTube Premium o Spotify. 
+  Las usás para activar los 7 días gratis, y cuando se vence, 
+  te hacés otra cuenta con otra tarjeta generada y repetís el proceso
+
+- 
